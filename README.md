@@ -1,2 +1,2 @@
-# Soluciones-Demos
-Demos de clase resueltos
+# Demos resueltos
+Demos planteados en clase resueltos. Solo las demos, no las actividades.
